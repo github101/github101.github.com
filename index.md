@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 男人的自白...
+tagline: 哥不只是传说...
 ---
 {% include JB/setup %}
 
