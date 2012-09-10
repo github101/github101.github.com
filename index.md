@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 男人的自白...
 tagline: 哥不只是传说...
 ---
